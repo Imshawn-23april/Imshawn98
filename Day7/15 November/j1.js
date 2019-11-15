@@ -1,0 +1,1 @@
+alert("chèn js vào html thành công");
